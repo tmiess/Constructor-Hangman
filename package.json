@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "simple hangman game using constructors",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmiess/Constructor-Hangman.git"
+  },
+  "author": "Tyler Miess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmiess/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/tmiess/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "prompt": "^1.0.0"
+  }
+}
